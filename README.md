@@ -18,3 +18,9 @@ Make sure you have Python 3.x installed on your machine. You can download it fro
 1. Clone the repository:  
    ```bash  
    git clone https://github.com//Mahdi-hasan-shuvo/Web-scraping.git
+
+# twitter Scraping
+![422926984_7391818847536204_3483786187052071740_n](https://github.com/user-attachments/assets/c0cebe22-88cc-4d4d-ab55-c23f7c994e54)
+
+# nike
+![image](https://github.com/user-attachments/assets/9594af2c-0037-4d78-a641-c8f51a354eb1)
