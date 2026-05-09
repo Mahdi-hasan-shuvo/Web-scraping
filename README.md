@@ -1,5 +1,5 @@
 # Web Scraping with Python  
-
+  
 This repository contains a collection of Python scripts and tools for web scraping. It provides examples and utilities for extracting data from websites using popular libraries such as Beautiful Soup, Scrapy, and Requests.  
 
 ## Features  
